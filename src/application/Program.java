@@ -1,12 +1,12 @@
 package application;
 
-import tabuleiro.Tabuleiro;
+import tabuleiro.Board;
 
 public class Program {
 
 	public static void main(String[] args) {
 		
-		Tabuleiro tab = new Tabuleiro(8, 8);
+		Board board = new Board(8, 8);
 		
 
 	}
